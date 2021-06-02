@@ -1,0 +1,80 @@
+
+
+.aa {
+  border-top: 0px;
+  border-right: 0px;
+  border-left: 2px solid lightgray;
+  border-bottom: 3px solid lightgray;
+  border-radius: 8px;
+}
+
+.bb {
+  margin-left: -40px;
+}
+
+
+.cc:hover {
+    font-weight: bold;
+    text-decoration: none;
+}
+.cc{
+    text-decoration: none;
+}
+.aa::placeholder{
+  font-weight: bold;
+} 
+.dd {
+border-width: 3px !important;
+}
+input,
+select,
+textarea:focus {
+  box-shadow: none !important;
+  outline: none !important;
+  border-color: lightgray !important;
+}
+
+input,
+select,
+textarea {
+  border-top-left-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+}
+.ee:hover {
+  background-color: royalblue;
+  color: white;
+}
+.ff {
+  border-top: 0px;
+  border-right: 0px;
+  border-left: 2px solid lightgray;
+  border-bottom: 2px solid lightgray;
+  border-radius: 10px;
+}
+.gg{
+  line-height: 0;
+ 
+}
+.ga{
+  margin-left: -44px;
+}
+.hh{
+font-size: 25px;
+}
+.ii{
+ font-size: 14px;
+ font-weight: 900;
+}
+.jj{
+  font-weight: 750;
+}
+.kk {
+  border: 2px solid #d2d2d2 !important;
+  border-radius: 0px 0px 0px 10px !important;
+  border-top: none !important;
+  border-right: none !important;
+  height: 35px !important;
+}
+.ll{
+  height: 28px !important;
+}
